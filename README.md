@@ -22,5 +22,3 @@
 <!-- "COMENTÁRIO -->
 <!-- "COMENTÁRIO" -->
 <br>
-
-![snake gif](https://github.com/crznatalie/crznatalie/blob/output/github-contribution-grid-snake.svg)
