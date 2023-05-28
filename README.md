@@ -1,6 +1,6 @@
-
+<p align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=E1CDF7&center=true&vCenter=true&width=435&lines=%F0%9F%8C%B8+Hello+there%2C+welcome!+%F0%9F%8C%B8" alt="Typing SVG" /></a>
-
+</p>
 <hr>
 <h3>🌸 About me</h3>
 <br>
@@ -11,7 +11,6 @@ Now listening:
 <br>
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=crznatalie&cover_image=true&theme=novatorem&show_offline=true&background_color=121212&interchange=false&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=crznatalie&redirect=true)
-
 <hr>
 <h3>🌸 Stats</h3>
 <br>
