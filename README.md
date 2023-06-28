@@ -29,6 +29,7 @@ Now listening:
 [![Goodreads](https://img.shields.io/badge/Goodreads-372213?style=for-the-badge&logo=goodreads&logoColor=white)](https://www.goodreads.com/user/show/109054449-natalie)
 <br>
 <hr>
+<img src="https://cdn.discordapp.com/attachments/965732078736011334/1123436202343792700/Imagem_do_WhatsApp_de_2023-06-27_as_19.24.39.jpg">
 
 <!--
 <div style="display: inline_block"><br/>
